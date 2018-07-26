@@ -25,6 +25,7 @@ y_pred = clf.predict(x_test)
 
 # p-value
 """
+sklearn does not provide p-value calculation
 https://stackoverflow.com/questions/25122999/scikit-learn-how-to-check-coefficients-significance
 """
 
